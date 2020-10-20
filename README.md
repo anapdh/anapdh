@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there,
+It's a pleasure to see you here. ✌️
 
-<!--
-**anapdh/anapdh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+- 💹 I’m currently working on HTML/CSS projects, at [Microverse curriculum](https://www.microverse.org/#world-class-curriculum);
+- 👩🏼‍💻 I’m studying to become a Full-Stack Web Developer, including HTML & CSS (+ Bootstrap), Ruby & Ruby on Rails, JavaScript & React and Redux, SQL and Database;
+- 🖥️ I'm also taking the edX course [CS50 (Science Computer) for Lawyers](https://courses.edx.org/courses/course-v1:HarvardX+CS50L+Law/course/);
+- 📫 You can contact me here or via LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/ana-paula-h%C3%BCbner-7a9484181/);
+- 😄 Pronouns: She/Her.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Ana's personal facts:
+
+- ⚖️ I have a Legal background and worked for 4 years as a lawer, specializated in Civil Law and Civil Procedural Law;
+- 🍃 I'm a Nature lover and always try to connect with during my free time;
+- 🔤 I can communicate in Portuguese, English or Spanish (and working on some French);
+- 💌 I love to exchange ideas with people, message me whenever you want to.
+
+### Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩
