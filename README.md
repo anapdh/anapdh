@@ -14,7 +14,6 @@ It's a pleasure to see you here. ✌️
 
 - ⚖️ I have a Legal background and worked for 4 years as a lawer, specializated in Civil Law and Civil Procedural Law;
 - 🍃 I'm a Nature lover and always try to connect with during my free time;
-- 🔤 I can communicate in Portuguese, English or Spanish (and working on some French);
 - 💌 I love to exchange ideas with people, message me whenever you want to.
 
 ### Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩
