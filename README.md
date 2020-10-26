@@ -6,7 +6,7 @@ It's a pleasure to see you here. ✌️
 - 💹 I’m currently working on HTML/CSS projects, at [Microverse curriculum](https://www.microverse.org/#world-class-curriculum);
 - 👩🏼‍💻 I’m studying to become a Full-Stack Web Developer, including HTML & CSS (+ Bootstrap), Ruby & Ruby on Rails, JavaScript & React and Redux, SQL and Database;
 - 🖥️ I'm also taking the edX course [CS50 (Science Computer) for Lawyers](https://courses.edx.org/courses/course-v1:HarvardX+CS50L+Law/course/);
-- 📫 You can contact me here or via LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/ana-paula-h%C3%BCbner-7a9484181/);
+- 📫 You can contact me via [Email](ana_d_hubner@hotmail.com) or LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/ana-paula-h%C3%BCbner-7a9484181/);
 - 😄 Pronouns: She/Her.
 
 
