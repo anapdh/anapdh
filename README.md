@@ -3,7 +3,7 @@ It's a pleasure to see you here. ✌️
 
 ## About me:
 
-- 🖥️ I am currently working on HTML/CSS projects, at [Microverse curriculum](https://www.microverse.org/#world-class-curriculum);
+- 🖥️ I am currently working on HTML/CSS projects, at [Microverse Curriculum](https://www.microverse.org/#world-class-curriculum);
 - 👩🏼‍💻 Studying to become a Full-Stack Web Developer, including HTML & CSS (+ Bootstrap), Ruby & Ruby on Rails, JavaScript & React and Redux, SQL and Database;
 - 📚 I'm also taking the edX course [CS50 (Science Computer) for Lawyers](https://courses.edx.org/courses/course-v1:HarvardX+CS50L+Law/course/);
 - 📧 You can contact me via email or LinkedIn [Ana Paula Hübner](https://www.linkedin.com/in/ana-paula-h%C3%BCbner-7a9484181/);
