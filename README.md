@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">It's a pleasure to see you here.</p>
 
@@ -29,5 +28,5 @@
  
  <br>
 
-<h3 align="center">###Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩</h3>
+<h3 align="center">Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩</h3>
 
