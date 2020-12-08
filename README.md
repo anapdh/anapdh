@@ -1,5 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-It's a pleasure to see you here.
+
+<h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<p align="center">It's a pleasure to see you here.</p>
 
 ## About me:
 
@@ -9,7 +10,6 @@ It's a pleasure to see you here.
 - 📧 You can contact me via email or LinkedIn: [Ana Paula Hübner](https://www.linkedin.com/in/ana-paula-h%C3%BCbner-7a9484181/);
 - 😄 Pronouns: She/Her;
 - ✔️ Available for hire.
-
 
 ## Facts about Ana:
 
@@ -22,13 +22,12 @@ It's a pleasure to see you here.
   <a href="https://www.linkedin.com/in/anapdh/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/anapdh/" alt="linkedin badge">
   </a>
-  
-   <a href="mailto:anap.dh@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
+  <a href="mailto:anap.dh@gmail.com">
+   <img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
   </a>
-  
-</p>
+ </p>
+ 
+ <br>
 
-
-### Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩
+<h3 align="center">###Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩</h3>
 
