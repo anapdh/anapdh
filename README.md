@@ -26,5 +26,4 @@
  </p>
  
  <br>
- 
 <h3 align="center">Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩</h3>
