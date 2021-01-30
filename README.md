@@ -21,6 +21,6 @@
   </a>
   <a href="mailto:anap.dh@gmail.com">
    <img src="https://img.shields.io/badge/Email%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
-  </a></p>
- <br>
+  </a>
+</p>
 <h3 align="center">Support a newbie dev: feel free to give me some stars ⭐⭐⭐🤩</h3>
