@@ -1,10 +1,6 @@
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">It's a pleasure to see you here.</p>
 
-<p align='center'>
-  <img align='center' alt="visitors count" src="https://visitor-badge.laobi.icu/badge?page_id=anapdh.anapdh">
- </p>
-
 ## About me:
 
 - 🖥️ I am currently working on Ruby on Rails projects at [Microverse Curriculum](https://www.microverse.org/#world-class-curriculum);
