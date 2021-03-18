@@ -4,7 +4,7 @@
 ## About me:
 
 - 🖥️ I am currently working on Ruby on Rails projects at [Microverse Curriculum](https://www.microverse.org/#world-class-curriculum);
-- 👩🏼‍💻 Studying to become a Full-Stack Web Developer, including HTML & CSS (+ Bootstrap), Ruby & Ruby on Rails, JavaScript & React and Redux, SQL and Database;
+- 👩🏼‍💻 Studying to become a Full-Stack Web Developer, including HTML & CSS and Bootstrap, Ruby & Ruby on Rails, JavaScript & React and Redux, SQL and Database;
 - 📚 I'm also taking the edX course [CS50 (Science Computer) for Lawyers](https://courses.edx.org/courses/course-v1:HarvardX+CS50L+Law/course/);
 - 😄 Pronouns: <i>She/Her</i>;
 - ✔️ Available for hire.
