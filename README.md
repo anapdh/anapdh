@@ -17,8 +17,10 @@
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/anapdh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/anapdh/" alt="linkedin badge">
- 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/anapdh/" alt="linkedin badge" </a>
+  <a href="https://twitter.com/dev_anahub">
+    <img alt="Follow me" src="https://img.shields.io/twitter/follow/dev_anahub?color=blue&label=%20%20%20Follow%20me&logo=twitter&style=for-the-badge">
+  </a>
   <a href="mailto:anap.dh@gmail.com">
     <img src="https://img.shields.io/badge/Email%20-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail badge">
   </a>
