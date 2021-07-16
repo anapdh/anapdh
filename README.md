@@ -3,7 +3,7 @@
 
 ## About me:
 
-- 🖥️ I am currently working on JavaScript projects at [Microverse Curriculum](https://www.microverse.org/#world-class-curriculum);
+- 🖥️ I am currently working on React projects at [Microverse Curriculum](https://www.microverse.org/#world-class-curriculum);
 - 👩🏼‍💻 Developing every day to become a Full-Stack Web Developer, including JavaScript & React and Redux, Ruby & Ruby on Rails, HTML & CSS and Bootstrap, SQL and Databases;
 - 📚 I'm also taking the edX course [CS50 (Science Computer) for Lawyers](https://courses.edx.org/courses/course-v1:HarvardX+CS50L+Law/course/);
 - 😄 Pronouns: <i>She/Her</i>;
