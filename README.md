@@ -12,6 +12,7 @@
 
 - ⚖️ I have a Legal background and have worked for four years as a lawyer, specialized in Civil Law and Civil Procedural Law;
 - 🍃 I am a Nature lover and I always try connect with it during my free time;
+- 🌐 I'm trilingual, currently being able to communicate in Portuguese, English, and Spanish. Studying and looking forward to adding French to my spoken languages and becoming a polyglot; 
 - 💌 I love to exchange ideas with people, feel free to contact me:
 
 <br>
