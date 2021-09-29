@@ -11,8 +11,8 @@
 ## Facts about Ana:
 
 - ⚖️ I have a Legal background and have worked for four years as a lawyer, specialized in Civil Law and Civil Procedural Law;
-- 👩🏼‍💻 Wrote my 1st "hello world" in Dec/2019 which changed my life and career;
-- 🍃 I am a Nature lover and I always try connect with it during my free time;
+- 👩🏼‍💻 Wrote my 1st "hello world" in Dec/2019;
+- 🍃 I am a Nature lover and I always try to connect with it during my free time;
 - 💌 I love to exchange ideas with people, feel free to contact me:
 
 <br>
